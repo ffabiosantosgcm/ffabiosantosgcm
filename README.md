@@ -9,7 +9,7 @@ Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, espec
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟
 - ⚡ VMware Certified Professional Datacenter Virtualization (5.5, 6.0, 6.5)
 - ⚡ Azure Administrator
-- ⚡ Microsoft Certified Solutions Expert
+- ⚡ Microsoft MCSE: Cloud Platform and Infrastructure
 - 😄 Pronomes: Ele | Ele
 
 <!--
