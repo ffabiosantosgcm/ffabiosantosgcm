@@ -1,7 +1,19 @@
-### Hi there 👋
+## Fábio Gomes 👋
+Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware.  
+
+### Sobre mim!
+- 🔭 Atualmente estou trabalhando com : vSphere, vRealize Suíte, Site Recovery Manager, Packer & Terraform.
+- 🌱 Atualmente estou aprendendo/estudando para: Terraform e Cloud.
+- 📫 Como chegar até mim: Linkedin - (linkedin.com/in/fabiosantosgomes)
+- 💬 Meu blog (https://virtualizandoaju.academy/)
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟
+- ⚡ VMware Certified Professional Datacenter Virtualization (5.5, 6.0, 6.5)
+- ⚡ Azure Administrator
+- ⚡ Microsoft Certified Solutions Expert
+- 😄 Pronomes: Ele | Ele
 
 <!--
-**ffabiosantosgcm/ffabiosantosgcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**smctighevcp/smctighevcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
