@@ -2,7 +2,7 @@
 Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware.  
 
 ### Sobre mim!
-- 🔭 Atualmente estou trabalhando com : vSphere, vRealize Suíte, PowerCLI, Packer & Terraform.
+- 🔭 Atualmente estou trabalhando com : vSphere, vRealize Suíte, PowerCLI, Storages IBM, Packer & Terraform.
 - 🌱 Atualmente estou aprendendo/estudando para: Terraform e Ansible.
 - 📫 Como chegar até mim: Linkedin - ([linkedin.com/in/fabiosantosgomes](https://www.linkedin.com/in/fabiosantosgomes/))
 - 💬 Meu blog (https://virtualizandoaju.academy/)
