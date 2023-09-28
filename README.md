@@ -10,7 +10,7 @@ Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, espec
 - ⚡ VMware Certified Professional Datacenter Virtualization (5.5, 6.0, 6.5)
 - ⚡ Azure Administrator
 - ⚡ Microsoft MCSE: Cloud Platform and Infrastructure
-- ⚡ Expertise	vSphere, vRealize, NSX, vSAN
+- ⚡ Expertise:	vSphere, vRealize, NSX, vSAN
 - 😄 Pronomes: Ele | Ele
 
 <!--
