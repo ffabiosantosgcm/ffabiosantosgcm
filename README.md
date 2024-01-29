@@ -6,7 +6,7 @@ Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, espec
 - 🌱 Atualmente estou aprendendo/estudando para: VMware Aria, Ansible, Terraform e IaC
 - 📫 Como chegar até mim: Linkedin - ([linkedin.com/in/fabiosantosgomes](https://www.linkedin.com/in/fabiosantosgomes/))
 - 💬 Meu blog (https://virtualizandoaju.academy/)
-- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟🌟
 - ⚡ VMware Certified Professional Datacenter Virtualization (5.5, 6.0, 6.5)
 - ⚡ Azure Administrator
 - ⚡ Microsoft MCSE: Cloud Platform and Infrastructure
