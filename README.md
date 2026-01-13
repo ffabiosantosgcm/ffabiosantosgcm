@@ -1,5 +1,5 @@
 ## Fábio Gomes 👋
-Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware.  
+Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware e conhecedor de vários outros hypervisors assim como experiente em sistemas de armazenamento.
 
 ### Sobre mim!
 - 🔭 Atualmente estou trabalhando com : vSphere, vRealize Suíte, ARIA Suíte, PowerCLI, Storages IBM, Ansible, Packer & Terraform.
