@@ -6,7 +6,7 @@ Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, espec
 - 🌱 Atualmente estou aprendendo/estudando para: VMware Cloud Foundation 9, SDN, Containers e outros virtualizadores.
 - 📫 Como chegar até mim: Linkedin - ([linkedin.com/in/fabiosantosgomes](https://www.linkedin.com/in/fabiosantosgomes/))
 - 💬 Meu blog (https://virtualizandoaju.com/)
-- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟🌟🌟
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/2979) 🌟🌟🌟🌟🌟🌟🌟🌟
 - ⚡ VMware Certified Professional - VMware Cloud Foundation Administrator
 - ⚡ VMware Certified Professional Datacenter Virtualization (5.5, 6.0, 6.5)
 - ⚡ Nutanix Certified Professional - Multicloud Infrastructure 6
